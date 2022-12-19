@@ -1,0 +1,8 @@
+AUTOR: Agosta Ricardo Jesús
+
+PROPOSITO:
+Esta aplicación web se desarrolló para poder agregar y ir actualizando una lista de productos con sus costos de forma eficiente, y para que haya un mejor entendimiento
+de los datos, se van a ir visualizaando en una gráfica de columnas, además se va a poder exportar o descargar la tabla a la computadora local.
+Esto es un prototipo, se podría mejorar y implementar para otros temas específicos.
+
+
